@@ -11,7 +11,7 @@ int main()
     cin>>t;
     while(t--)
     {
-        ll n;
+        ll n;//s
         cin>>n;
         string res = "imurTu";
         string s;
