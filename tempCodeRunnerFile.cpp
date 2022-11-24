@@ -1,0 +1,3 @@
+    if(top <= dis){
+                ans++;
+            }
